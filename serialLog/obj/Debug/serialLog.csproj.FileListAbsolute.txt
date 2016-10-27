@@ -1,0 +1,9 @@
+c:\users\josh.tptech\documents\visual studio 2015\Projects\serialLog\serialLog\bin\Debug\serialLog.exe.config
+c:\users\josh.tptech\documents\visual studio 2015\Projects\serialLog\serialLog\bin\Debug\serialLog.exe
+c:\users\josh.tptech\documents\visual studio 2015\Projects\serialLog\serialLog\bin\Debug\serialLog.pdb
+c:\users\josh.tptech\documents\visual studio 2015\Projects\serialLog\serialLog\obj\Debug\serialLog.csprojResolveAssemblyReference.cache
+c:\users\josh.tptech\documents\visual studio 2015\Projects\serialLog\serialLog\obj\Debug\serialLog.Form1.resources
+c:\users\josh.tptech\documents\visual studio 2015\Projects\serialLog\serialLog\obj\Debug\serialLog.Properties.Resources.resources
+c:\users\josh.tptech\documents\visual studio 2015\Projects\serialLog\serialLog\obj\Debug\serialLog.csproj.GenerateResource.Cache
+c:\users\josh.tptech\documents\visual studio 2015\Projects\serialLog\serialLog\obj\Debug\serialLog.exe
+c:\users\josh.tptech\documents\visual studio 2015\Projects\serialLog\serialLog\obj\Debug\serialLog.pdb
